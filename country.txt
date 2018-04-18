@@ -11,13 +11,11 @@ West Indies
 italy
 Germany
 South Africa
-<<<<<<< HEAD
 Mexico
 Cuba
-=======
 Rome
 Argentina
 Australia
 Greenland
 Somalia
->>>>>>> hero2
+
