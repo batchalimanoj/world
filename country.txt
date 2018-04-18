@@ -11,4 +11,5 @@ West Indies
 italy
 Germany
 South Africa
-
+Mexico
+Cuba
